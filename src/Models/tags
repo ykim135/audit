@@ -1,0 +1,15 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+Amount	/Users/yoonungkim/workspace/haskell/audit/src/Models/Offering.hs	/^type Amount    = Double$/;"	t	language:haskell
+data	/Users/yoonungkim/workspace/haskell/audit/src/Models/Offering.hs	/^data Offering  = Amount | OfferedAt$/;"	v	language:haskell
+data	/Users/yoonungkim/workspace/haskell/audit/src/Models/User.hs	/^data User      = UserName | UserBirth$/;"	v	language:haskell
+Models.Offering	/Users/yoonungkim/workspace/haskell/audit/src/Models/Offering.hs	/^module Models.Offering where$/;"	m	language:haskell
+Models.User	/Users/yoonungkim/workspace/haskell/audit/src/Models/User.hs	/^module Models.User where$/;"	m	language:haskell
+OfferedAt	/Users/yoonungkim/workspace/haskell/audit/src/Models/Offering.hs	/^type OfferedAt = Day$/;"	t	language:haskell
+Offering	/Users/yoonungkim/workspace/haskell/audit/src/Models/Offering.hs	/^data Offering  = Amount | OfferedAt$/;"	d	language:haskell
+type	/Users/yoonungkim/workspace/haskell/audit/src/Models/Offering.hs	/^type Amount    = Double$/;"	v	language:haskell
+type	/Users/yoonungkim/workspace/haskell/audit/src/Models/Offering.hs	/^type OfferedAt = Day$/;"	v	language:haskell
+type	/Users/yoonungkim/workspace/haskell/audit/src/Models/User.hs	/^type UserBirth = String$/;"	v	language:haskell
+type	/Users/yoonungkim/workspace/haskell/audit/src/Models/User.hs	/^type UserName  = String$/;"	v	language:haskell
+User	/Users/yoonungkim/workspace/haskell/audit/src/Models/User.hs	/^data User      = UserName | UserBirth$/;"	d	language:haskell
+UserBirth	/Users/yoonungkim/workspace/haskell/audit/src/Models/User.hs	/^type UserBirth = String$/;"	t	language:haskell
+UserName	/Users/yoonungkim/workspace/haskell/audit/src/Models/User.hs	/^type UserName  = String$/;"	t	language:haskell
